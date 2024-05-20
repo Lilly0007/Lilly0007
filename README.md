@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Lilly0007/Lilly0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Livia
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura]
+-Estou me divertindo na Linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo
+
+00001101320758SP@al.educacao.sp.gov.br
+
+@lilly_martins25
+
+![](https://media1.tenor.com/m/BvMA2yDFeV0AAAAd/uni-cat.gif)
